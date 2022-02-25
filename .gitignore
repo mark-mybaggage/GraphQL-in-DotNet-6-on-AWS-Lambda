@@ -1,4 +1,14 @@
 bin
 obj
+packages
 dist
 .serverless
+*.suo
+*.user
+*.pubxml
+*.ide
+*.lock
+*.ide-shm
+*.ide-wal
+*.bak
+.vs
